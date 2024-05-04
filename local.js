@@ -118,9 +118,9 @@ I18N.zh["title"] = { // 标题翻译
     "static": { // 静态翻译 
         "Knowledge management for technical teams": "技术团队的知识管理",
     },
-    "regexp": { // 正则翻译
-    }
-}
+    "regexp": [ // 正则翻译
+    ],
+};
 
 I18N.zh["public"] = { // 公共翻译
     "static": { // 静态翻译
@@ -160,6 +160,6 @@ I18N.zh["public"] = { // 公共翻译
         "Documentation": "文档",
             "Add new content": "添加新内容",
     },
-    "regexp": { // 正则翻译
-    }
+    "regexp": [ // 正则翻译
+    ],
 }
